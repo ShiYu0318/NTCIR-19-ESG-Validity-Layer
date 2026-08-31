@@ -1,0 +1,1 @@
+Projection ($M1$) versus independent argmax ($M0$) on five corpora under document-disjoint evaluation; values are three-seed means for preselected backbones.

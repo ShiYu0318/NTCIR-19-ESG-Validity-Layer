@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this reproduction capsule, please cite the associated paper."
+title: "ESG Validity Layer: Minimal Result Reproduction"
+type: software
+version: 1.0.0
+date-released: 2026-08-31
+repository-code: "https://github.com/tom1030507/ntcir19-esg-validity-layer"
+license: MIT
+authors:
+  - family-names: Chen
+    given-names: Sheng-Xun
+  - family-names: Chen
+    given-names: Chun-Wei
+  - family-names: Han
+    given-names: Hsin-Chen
+  - family-names: Huang
+    given-names: Shi-Yu
+preferred-citation:
+  type: conference-paper
+  title: "Team_10537 at the NTCIR-19 AI CUP-VeriPromiseESG Task: Hierarchical Projection as a Validity Layer for Multilingual ESG Promise Verification"
+  year: 2026
+  authors:
+    - family-names: Chen
+      given-names: Sheng-Xun
+    - family-names: Chen
+      given-names: Chun-Wei
+    - family-names: Han
+      given-names: Hsin-Chen
+    - family-names: Huang
+      given-names: Shi-Yu
