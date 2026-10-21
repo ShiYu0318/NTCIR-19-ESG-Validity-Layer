@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this reproduction capsule, please cite the associated paper."
 title: "ESG Validity Layer: Minimal Result Reproduction"
 type: software
-version: 1.0.0
-date-released: 2026-08-31
+version: 1.1.0
+date-released: 2026-10-21
 repository-code: "https://github.com/tom1030507/ntcir19-esg-validity-layer"
 license: MIT
 authors:
